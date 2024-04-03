@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Introduce
-컴퓨터를 공부중인 학생입니다.
+learning about Programming
