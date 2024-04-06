@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## Introduce
-learning about Programming
+I'm learning C++ and Python.
+현재 C++와 Python 언어를 공부하고 있습니다.
+
+I'm interested in WEB programming.
+저는 웹프로그래밍에 관심이 있습니다.
+
+Let's study programming together!
+함께 프로그래밍 공부해요!
